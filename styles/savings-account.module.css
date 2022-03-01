@@ -1,0 +1,14 @@
+.main h1 {
+    font-family: arial, helvetica,sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.main p {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.main input {
+    width: "10";
+}
